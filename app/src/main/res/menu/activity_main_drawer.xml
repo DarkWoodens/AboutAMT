@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Read more">
+        <menu>
+            <item android:title="Main"
+                android:id="@+id/nav_main" />
+            <item
+                android:id="@+id/nav_tab1"
+                android:title="Members" />
+            <item
+                android:id="@+id/nav_tab2"
+                android:title="Official Devices" />
+        </menu>
+    </item>
+    <item android:title="Aplication Developer" >
+        <menu >
+            <item android:title="Iacob Ionut"
+                android:id="@+id/nav_dev" />
+        </menu>
+    </item>
+
+</menu>
